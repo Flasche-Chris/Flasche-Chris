@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Flasche-Chris
+- 👀 I’m interested in my hobby photography IT-administration and some small Python programming
+- 🌱 I’m currently doing my vocational diploma in IT in Dortmund, Germany
+- 📫 How to reach me by Mail: info@flasche-chris.de
