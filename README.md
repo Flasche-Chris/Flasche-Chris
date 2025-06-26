@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Flasche-Chris (Chrissy)
-- 👀 I’m interested in my hobby photography, IT-administration and some small Python programming
+- 👀 I’m interested in my hobby photography, IT-administration and some small Python, Bash, PowerShell programming
 - 📸 My Instagram: https://www.instagram.com/flasche_chris/
+- 🌏 My (small) page: https://flasche-chris.de
 - 🌱 I’m currently doing an apprenticeship as a IT Systemadministrator in Dortmund, Germany
 - 📫 How to reach me by Mail: info@flasche-chris.de
